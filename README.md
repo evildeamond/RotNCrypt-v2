@@ -13,19 +13,24 @@ That simple.
 ###Linux
 
 
-Firstly, download the dependencys,
+Firstly, download the dependencys,  
+
 '''
 	sudo apt-get install python
-'''
-Next, Clone the repo,
+'''  
+
+Next, Clone the repo,  
+  
 '''
 	git clone https://github.com/evildeamond/RotNCrypt-v2 rotn
 '''
-From there just run the script,
+  
+From there just run the script,  
+  
 '''
 	python /your/directory/rotn/script.py
 '''
-
+  
 
 ##Future Plans##
 
