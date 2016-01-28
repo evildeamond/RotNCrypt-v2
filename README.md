@@ -30,5 +30,7 @@ From there just run the script,
 
 What I Want to Add  
   
--Extended Encryption from just ROT to other forms  
--Add Dictionary checks for most likely results
+[ ]Extended Encryption from just ROT to other forms  
+  
+[ ]Add Dictionary checks for most likely results
+  
